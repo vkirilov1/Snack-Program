@@ -1,0 +1,11 @@
+Products:
+1;Danish Muffin;0.52;80%;none
+2;Granny's Cup Cake;0.38;120%;30% off
+3;Frenchy's Croissant;0.41;0.90EUR/unit;none
+4;Crispy chips;0.60;1.00EUR/unit;Buy 2, get 3rd free
+Clients:
+1;ABC Distribution;5;0;2
+2;DEF Foods;4;1;2
+3;GHI Trade;3;1;3
+4;JKL Kiosks;2;3;5
+5;MNO Vending;0;5;7
